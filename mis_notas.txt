@@ -1,0 +1,3 @@
+Primera versión de mis notas.
+
+Segunda línea: estoy aprendiendo Git
